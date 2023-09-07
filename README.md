@@ -2,7 +2,8 @@
 
 
 
-![Dashboard Preview](./IBM HR DASHBOARD.png)
+
+![Dashboard Preview](./IBMHRDASHBOARD.png)
 
 
 📊 Enthusiastic about data and passionate about HR analytics, I recently completed an exciting project using Power BI to craft the IBM HR Dashboard.
